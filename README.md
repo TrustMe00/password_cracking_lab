@@ -27,6 +27,7 @@ Voici les structures à éviter :
 
 et bien etendu toutes les permutations de ces structures sont à prendre en compte. 
 
+
 Voici maintenant
 
 [mot] : 

@@ -1,0 +1,14 @@
+Constituer un dictionnaire efficace pour cibles les entreprises et administrations 
+
+Liste à constituer : 
+
+Nom de l'entreprise 
+Nom des filiales
+Ville du siège
+Ville du site audité 
+Communes voisines 
+Nom des services 
+Nom des marques 
+Nom des produits 
+Quelques mots clé issues du site 
+Quelques noms de cadres 
